@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#!/bin/bash
-
 URL="google.com"
 
 fail_count=0
